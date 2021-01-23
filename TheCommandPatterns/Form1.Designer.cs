@@ -78,9 +78,9 @@ namespace TheCommandPatterns
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(45, 21);
             this.radioButton1.TabIndex = 4;
-            this.radioButton1.TabStop = true;
             this.radioButton1.Text = "on";
             this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // groupBox2
             // 

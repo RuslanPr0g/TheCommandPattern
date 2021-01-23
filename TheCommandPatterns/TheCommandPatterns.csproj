@@ -47,7 +47,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Commands\ICommand.cs" />
+    <Compile Include="Commands\LightOffCommand.cs" />
     <Compile Include="Commands\LightOnCommand.cs" />
+    <Compile Include="Controllers\RemoteController.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

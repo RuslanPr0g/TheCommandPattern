@@ -1,0 +1,10 @@
+C:\Users\theru\Desktop\TheCommandPatternsProject\TheCommandPatterns\bin\Debug\TheCommandPatterns.exe.config
+C:\Users\theru\Desktop\TheCommandPatternsProject\TheCommandPatterns\bin\Debug\TheCommandPatterns.exe
+C:\Users\theru\Desktop\TheCommandPatternsProject\TheCommandPatterns\bin\Debug\TheCommandPatterns.pdb
+C:\Users\theru\Desktop\TheCommandPatternsProject\TheCommandPatterns\obj\Debug\TheCommandPatterns.csprojAssemblyReference.cache
+C:\Users\theru\Desktop\TheCommandPatternsProject\TheCommandPatterns\obj\Debug\TheCommandPatterns.Form1.resources
+C:\Users\theru\Desktop\TheCommandPatternsProject\TheCommandPatterns\obj\Debug\TheCommandPatterns.Properties.Resources.resources
+C:\Users\theru\Desktop\TheCommandPatternsProject\TheCommandPatterns\obj\Debug\TheCommandPatterns.csproj.GenerateResource.cache
+C:\Users\theru\Desktop\TheCommandPatternsProject\TheCommandPatterns\obj\Debug\TheCommandPatterns.csproj.CoreCompileInputs.cache
+C:\Users\theru\Desktop\TheCommandPatternsProject\TheCommandPatterns\obj\Debug\TheCommandPatterns.exe
+C:\Users\theru\Desktop\TheCommandPatternsProject\TheCommandPatterns\obj\Debug\TheCommandPatterns.pdb
